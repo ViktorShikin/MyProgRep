@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="50dfee55-34c7-45a7-936a-48ce28148740">
+  <producedTypes>
+    <objectType typeId="1b2eecc1-7122-450a-b9ab-6cd77fb2447d" valueTypeId="bd037deb-d1a2-439c-beb3-70d780456f66"/>
+    <refType typeId="023f72bb-7160-4cca-a339-54128f18158d" valueTypeId="72614fd5-6fd3-416f-8564-26a1c85e88bd"/>
+    <selectionType typeId="18dce73e-a27e-497e-b147-14667ef2cfc4" valueTypeId="f968b974-7eb1-4acf-9eb3-7c2d506d97c7"/>
+    <listType typeId="94528069-1bc7-4ad2-9b6c-21cfa98bde4f" valueTypeId="bc730b59-80b7-46c7-80d5-4dfc4fca1394"/>
+    <managerType typeId="ffa25375-445f-4976-802b-1023ca12ada8" valueTypeId="0ebbc47f-e2ec-4b27-8fb1-60f80bc6ba2d"/>
+  </producedTypes>
+  <name>Шикин</name>
+  <synonym>
+    <key>ru</key>
+    <value>Шикин</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Шикин.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Шикин.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
